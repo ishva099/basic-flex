@@ -1,0 +1,16 @@
+.parent{
+    padding: 25px;
+    background-color: blanchedalmond;
+    display: flex;
+    
+
+}
+
+.child{
+    border: 2px solid rgb(89, 124, 124);
+    background-color: rgba(176, 231, 213, 0.719);
+    padding: 20px;
+    font-size: 28px;
+    margin: 10px 0;
+   
+}
